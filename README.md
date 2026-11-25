@@ -32,11 +32,11 @@ or the long form, `--HELP`:
 
 With telemetry enabled, you can press the following key combinations to activate various tests:
 
-`Ctrl+Alt+Shift+P` \\ <PageUp> and <PgDown> tests
-`Ctrl+Alt+Shift+M` \\ Minimap scrolling tests
-`Ctrl+Alt+Shift+T` \\ Quick and simple insertion, undo, and redo test
-`Ctrl+T` \\ Insertion of a little over 10 million characters, complete undo (one character at a time), and redo.
-`Ctrl+W` \\ Toggle Word-Wrap
+`<Ctrl> + <Alt> + <Shift> + <P>` \<PageUp\> and \<PgDown\> tests.<br>
+`<Ctrl> + <Alt> + <Shift> + <M>`  Minimap scrolling tests.<br>
+`<Ctrl> + <Alt> + <Shift> + <T>`  Quick and simple insertion, undo, and redo test.<br>
+`<Ctrl> + <T>`  Insertion of a little over 10 million characters, complete undo (one character at a time), and redo.<br>
+`<Ctrl> + <W>`  Toggle Word-Wrap.<br>
 
 
 ## Technical details
