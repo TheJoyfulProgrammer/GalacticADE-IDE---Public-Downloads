@@ -48,11 +48,11 @@ With telemetry enabled, you can press the following key combinations to activate
 ## Telemetry test results
 
 ### Computer:
-- HP Laptop
+
 | Item                                | Value                                                                                           |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Computer                         | Laptop                                                                                    |
-| Compiler                            | Clang 23.1.3 (https://github.com/msys2/MINGW-packages 067886dba977a6b4c97dfedfb25286b5eda55620) |
+| Computer                         | HP Laptop                                                                                    |
+| Compiler                            | Clang 23.1.3 |
 | Platform                            | Windows 11                                                                                        |
 | CPU                                 | Intel64 Family 6 Model 140 Stepping 1, GenuineIntel                                             |
 | Logical processors                  | 4                                                                                               |
